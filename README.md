@@ -7,5 +7,19 @@ Buscamos personas apasionadas por la tecnología que quieran sumarse a este proy
  * Documentación y Contenido: Personas que puedan crear tutoriales, guías y documentación clara para que otros usuarios y desarrolladores puedan entender Vex XS.
  * Testers: Voluntarios que nos ayuden a encontrar errores y fallos, probando el sistema en diferentes equipos.
 Si te interesa, únete a nuestro repositorio en GitHub y sé parte de la comunidad. Juntos podemos construir un sistema operativo increíble.
+
+vas a también recibir créditos en el sistema por ayudar y ser alguien creativo y mucho más no tengo partes del código porque fueron eliminados después que se me reinició mi celular de fábrica lastimosamente no tengo ningún código todavía por eso que busco ayudantes 
+para empezar de cero otra vez
+
+
+
+
+
+
+
+
+
+
+
 quieres unirte
 https://discord.gg/bFCxghNs
