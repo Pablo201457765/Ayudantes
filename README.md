@@ -1,25 +1,13 @@
+
 Vex XS: Un sistema operativo de código abierto para todos
-Vex XS es un sistema operativo moderno, ligero y de código abierto. Su objetivo es ofrecer una experiencia de usuario fluida y segura para cualquier persona, sin importar el hardware que tenga. Queremos crear un sistema que sea fácil de usar para principiantes, pero a la vez potente y flexible para desarrolladores.
-¿Qué necesitamos?
-Buscamos personas apasionadas por la tecnología que quieran sumarse a este proyecto. Si tienes habilidades en alguna de estas áreas, ¡tu ayuda es bienvenida!
- * Desarrolladores: Programadores de C/C++, Rust, y Python para trabajar en el núcleo del sistema, la interfaz de usuario y las aplicaciones.
- * Diseñadores UX/UI: Creativos con experiencia en diseño de interfaces intuitivas y atractivas para la experiencia de usuario.
- * Documentación y Contenido: Personas que puedan crear tutoriales, guías y documentación clara para que otros usuarios y desarrolladores puedan entender Vex XS.
- * Testers: Voluntarios que nos ayuden a encontrar errores y fallos, probando el sistema en diferentes equipos.
-Si te interesa, únete a nuestro repositorio en GitHub y sé parte de la comunidad. Juntos podemos construir un sistema operativo increíble.
+Vex XS es un proyecto para crear un sistema operativo moderno, ligero y de código abierto. Queremos construir una plataforma que sea tanto fácil de usar para principiantes como potente y flexible para desarrolladores.
+El estado del proyecto: De una idea a la realidad
+Actualmente, el proyecto está en sus primeras etapas. Nuestro plan es comenzar con una aplicación y, una vez que la terminemos, usarla como base para desarrollar la ROM. Como el creador, estoy aprendiendo y me encuentro con algunos desafíos, especialmente en la parte de la programación. No tengo código aún, pero tengo muchas ideas y una visión clara.
+Únete a la aventura: Buscamos pioneros
+Si eres un programador, diseñador, o simplemente alguien apasionado por la tecnología, tu ayuda es crucial. Busco personas que quieran sumarse y que puedan aportar con su experiencia. No importa si eres principiante o experto, lo importante es tu interés por el proyecto.
+ * Desarrolladores: Si sabes programar en C/C++, Rust, Python, o tienes experiencia con código de Android, ROMs, launchers o aplicaciones, por favor únete.
+ * Diseño UX/UI: Si te gusta crear interfaces de usuario, tu visión es fundamental para el proyecto.
+ * Cualquier ayuda es bienvenida: Si solo quieres aprender o dar ideas, también eres bienvenido.
+Si quieres formar parte de esta aventura, únete a nuestro servidor de Discord para conversar y colaborar:https://discord.gg/bFCxghNs
 
-vas a también recibir créditos en el sistema por ayudar y ser alguien creativo y mucho más no tengo partes del código porque fueron eliminados después que se me reinició mi celular de fábrica lastimosamente no tengo ningún código todavía por eso que busco ayudantes 
-para empezar de cero otra vez
-
-
-
-
-
-
-
-
-
-
-
-quieres unirte
-https://discord.gg/bFCxghNs
+estoy llevando ya una mes  con el proyecto pero yo haciendo solo me va a costar mucho por eso que necesito ayuda
